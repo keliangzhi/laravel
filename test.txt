@@ -2,11 +2,4 @@ Creating a new branch is quick.
 Creating a new branch is quick.
 Creating a new branch is quick.
 Creating a new branch is 2222222222222222222222fenzhi or 111111111111111111111111111111fenzhi
-<<<<<<< HEAD
-
-44444
-sdfsfsdf
-=======
-sssssssssssssssssssssssssssssssss
-sdfsfsdfsss
->>>>>>> fenzhi
+123123123123
